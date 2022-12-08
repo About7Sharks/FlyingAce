@@ -9,7 +9,7 @@
   "author": "sock",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "three": "^0.102.1"
   }
 }
